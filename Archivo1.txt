@@ -2,3 +2,4 @@ mkdir crear una carpeta
 cd moverse
 cd .. volver atras
 ls listado.
+F
